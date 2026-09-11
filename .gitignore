@@ -1,0 +1,11 @@
+.DS_Store
+*.WAV
+*.wav
+*.pdf
+*.docx
+*.xlsx
+*.csv
+*.tsv
+*.json
+__pycache__/
+*.pyc
